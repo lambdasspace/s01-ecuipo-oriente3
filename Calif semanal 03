@@ -1,0 +1,44 @@
+Primera parte
+Inciso (a):
+
+  Sintaxis abstracta:
+  La representación en sintaxis abstracta es precisa. Usaste una notación consistente y correcta.
+  Semántica natural:
+  La evaluación sigue las reglas correctamente y llega al resultado esperado. Los pasos intermedios están bien detallados.
+  Semántica estructural:
+  La evaluación estructural está bien realizada. El resultado final es correcto.
+  Puntuación: 10/10 
+
+Inciso (b):
+
+  Sintaxis abstracta:
+  La representación abstracta es correcta y captura bien las operaciones y la estructura de la expresión.
+  Semántica natural:
+  La evaluación es precisa y sigue las reglas correctamente. Los pasos están bien desglosados, y el resultado final es correcto.
+  Semántica estructural:
+  La evaluación paso a paso está bien realizada.
+  Puntuación: 10/10 
+
+Inciso (c):
+
+  Sintaxis abstracta:
+  La representación de la doble negación y la suma es correcta, y la estructura está bien hecha.
+  Semántica natural:
+  La evaluación sigue correctamente las reglas y obtiene el resultado correcto. Los pasos están bien detallados.
+  Semántica estructural:
+  La evaluación estructural está bien hecha.
+  Puntuación: 10/10
+
+Segunda parte
+
+  Gramática libre de contexto modificada (en notación EBNF):
+  La gramática está bien formulada y cubre adecuadamente los nuevos operadores. La estructura es clara y sigue la notación correcta. Puntuación: 4/4 
+  Nuevas reglas de sintaxis abstracta:
+  Las reglas están bien formuladas. La integración de las nuevas operaciones es clara. Puntuación: 4/4 
+  Nuevas reglas de semántica natural y estructural:
+  Las reglas están bien formuladas y consideran todos los casos relevantes.  Puntuación: 2/2 
+
+Calificación Final:
+Parte 1: 30/30
+Parte 2: 10/10
+Total: 40/40 = 10 bien hecho! :)
